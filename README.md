@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300px"  width="800px" src="https://github.com/smorgannicole/smorgannicole/assets/146776078/09040d2f-2a79-464f-9827-a47fbf0b8d74">
+<img src="https://github.com/smorgannicole/smorgannicole/assets/146776078/09040d2f-2a79-464f-9827-a47fbf0b8d74">
 </p>
 
 
