@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 <h1 align="center">Welcome, friend</h1>
 
-<img src="https://github.com/[smorgannicole]/[codeup-web-exercises]/blob/main/img/sea-lion-waving-hello.jpeg" alt="The sea lion is waving hello to you">
+<img src="https://github.com/[smorgannicole]/[codeup-web-exercises]/blob/main-branch/img/sea-lion-waving-hello.jpeg" alt="The sea lion is waving hello to you">
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
