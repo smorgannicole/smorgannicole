@@ -1,6 +1,7 @@
 <p align="center">
-<img height="300px"  width="800px" src="https://github.com/smorgannicole/smorgannicole/assets/146776078/ecdb0632-e48d-404a-9f4a-75c92c42d11c">
+<img height="300px"  width="800px" src="https://github.com/smorgannicole/smorgannicole/assets/146776078/09040d2f-2a79-464f-9827-a47fbf0b8d74">
 </p>
+
 
 <h1 align="center">Welcome, friend</h1>
 
