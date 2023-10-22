@@ -1,4 +1,4 @@
-
+<img src="![Blue Pink Gradient Fashion Banner](https://github.com/smorgannicole/smorgannicole/assets/146776078/a4464a5e-367d-4195-b203-667411173937)">
 
 <!--
 **smorgannicole/smorgannicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
