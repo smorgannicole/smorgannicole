@@ -1,4 +1,4 @@
-<img src="![github-banner](https://github.com/smorgannicole/smorgannicole/assets/146776078/ecdb0632-e48d-404a-9f4a-75c92c42d11c)">
+<img src="https://github.com/smorgannicole/smorgannicole/assets/146776078/ecdb0632-e48d-404a-9f4a-75c92c42d11c">
 
 
 <!--
