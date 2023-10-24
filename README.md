@@ -14,5 +14,5 @@
 - 🫀 I'm passionate about ... seeking knowledge and maintaining my status as a "forever student"
 - 🔎 How to reach me: ... summon me to a game of table tennis
 - 🗣️ Ask me about ... what it’s like to be a table tennis master
-- ✨ Fun fact: ... I can make fine jewelry
+- ✨ Fun fact ... I can make fine jewelry
 
