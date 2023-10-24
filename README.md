@@ -10,7 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning ... all things software dev
-- 🤝 I’m looking to collaborate on ... something that will challenge me 
+- 🤝 I’m looking to collaborate on ... something challenging 
 - 🫀 I'm passionate about ... seeking knowledge and maintaining my status as a "forever student"
 - 🔎 How to reach me: ... summon me to a game of table tennis
 - 🗣️ Ask me about ... what it’s like to be a table tennis master
