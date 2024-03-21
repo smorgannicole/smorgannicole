@@ -1,7 +1,7 @@
-<h1 align="center">Welcome, friend. I'm Morgan</h1>
-<h3 align="center">A React and Ruby on Rails developer</h3>
+<h1 align="center">Welcome, friend</h1>
+<h3 align="center">I'm Morgan, a React and Ruby on Rails developer</h3>
 
-✤ I’m currently working on [refining my portfolio](github.com/smorgannicole/portfolio)  🪄
+<p style="font-size: 24px;">✤ I’m currently working on [refining my portfolio](github.com/smorgannicole/portfolio)  🪄</p>
 
 ✤ I’m currently learning **how to use Figma and Photoshop 🎨**
 
