@@ -1,13 +1,13 @@
 <h1 align="center">Welcome, friend. I'm Morgan</h1>
 <h3 align="center">A React and Ruby on Rails developer</h3>
 
-- ✤ I’m currently working on [refining my portfolio](github.com/smorgannicole/portfolio)  🪄
+✤ I’m currently working on [refining my portfolio 🪄](github.com/smorgannicole/portfolio)
 
-- ✤ I’m currently learning **how to use Figma and Photoshop 🎨**
+✤ I’m currently learning **how to use Figma and Photoshop 🎨**
 
-- ✤ Ask me about **what it's like to be a chess grandmaster 🥸**
+✤ Ask me about **what it's like to be a chess grandmaster 🥸**
 
-- ✤ How to reach me **smorgannicole@gmail.com 🤝**
+✤ How to reach me **smorgannicole@gmail.com 🤝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
