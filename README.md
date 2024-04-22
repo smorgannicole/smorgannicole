@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, friend</h1>
 <h3 align="center">I'm Morgan, a React and Ruby on Rails developer</h3>
 
-✤ I’m currently working on [refining my portfolio](https://poetic-tiramisu-cda399.netlify.app/)  🪄
+✤ I’m currently working on <a href="https://poetic-tiramisu-cda399.netlify.app/" target="_blank">refining my portfolio</a> 🪄
 
 ✤ I’m currently learning **how to use Figma and Photoshop 🎨**
 
