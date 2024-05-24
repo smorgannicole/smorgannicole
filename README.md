@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, friend</h1>
 <h3 align="center">I'm Morgan, a React and Ruby on Rails developer</h3>
 
-✤ I’m currently working on <a href="https://poetic-tiramisu-cda399.netlify.app/" target="_blank">scrapping this portfolio and making it accessible for all users</a> 🤸‍♀️
+✤ I’m currently working on a <a href="https://github.com/smorgannicole/trivia-app-backend" target="_blank">trivia app</a> 🧠
 
 ✤ I’m currently learning **why web accessibility consideration is essential and how I can integrate it into my code 🫶**
 
