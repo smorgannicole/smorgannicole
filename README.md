@@ -1,13 +1,13 @@
 <h1 align="center">Welcome, friend</h1>
 <h3 align="center">I'm Morgan, a React and Ruby on Rails developer</h3>
 
-✤ I’m currently working on a <a href="https://github.com/smorgannicole/trivia-app-backend" target="_blank">trivia app</a> 🧠
+✤ I’m currently working on **becoming proficient in TypeScript and Next.js to make my code scalable and maintainable 🏗️**
 
-✤ I’m currently learning **why web accessibility consideration is essential and how I can integrate it into my code 🫶**
+✤ I’m currently learning **why web accessibility consideration is essential and how I can integrate it into my work 🫶**
 
-✤ Ask me about **what it's like to be a chess grandmaster 🥸**
+✤ Ask me if **I would like a mentor or feedback (I would) 💡**
 
-✤ How to reach me smorgannicole@gmail.com 📮
+✤ How to reach me: **smorgannicole@gmail.com 📮**
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
